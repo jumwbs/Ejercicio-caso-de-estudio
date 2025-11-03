@@ -1,0 +1,15 @@
+Historia de usuario
+
+Como cliente frecuente de la tienda en línea,
+quiero recibir una notificación inmediata al finalizar mi compra con los detalles del pedido y un enlace de rastreo,
+para tener la seguridad de que el pago fue procesado correctamente y poder hacer seguimiento al estado de mi pedido.
+
+Criterios de aceptación
+
+-El sistema debe enviar un correo electrónico al cliente con la confirmación del pago y los datos del pedido.
+
+-El mensaje debe incluir el número de pedido, la fecha estimada de entrega y el enlace de rastreo.
+
+-En caso de error en el pago, el sistema debe notificarlo de inmediato.
+
+-El cliente debe poder consultar el estado del pedido desde su perfil.
